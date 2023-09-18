@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on cashare
-📫 How to reach me: patrick.munoz@cashare.ch
+- 🔭 I’m currently working on cashare
+- 📫 How to reach me: patrick.munoz@cashare.ch
 
 <!--
 **cashare-pcmunoz/cashare-pcmunoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
